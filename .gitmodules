@@ -1,0 +1,9 @@
+[submodule "joyce-portrait-macroetymology"]
+	path = joyce-portrait-macroetymology
+	url = https://github.com/JonathanReeve/joyce-portrait-macroetymology
+[submodule "chaucer-macro-etym"]
+	path = chaucer-macro-etym
+	url = https://github.com/JonathanReeve/chaucer-macro-etym
+[submodule "milton-analysis"]
+	path = milton-analysis
+	url = https://github.com/JonathanReeve/milton-analysis
